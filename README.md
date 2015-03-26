@@ -48,7 +48,7 @@ $ npm install -g json-schema-manager
 
 ```
 
-## LICENCE
+## LICENSE
 (The MIT License)
 
 Copyright (c) 2015 Jan Stránský &lt;jan.stransky@arnal.cz&gt;

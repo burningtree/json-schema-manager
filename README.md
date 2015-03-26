@@ -12,7 +12,7 @@ $ npm install json-schema-manager
 ```
 
 ### Example
-```
+```javascript
 var jsm = require('json-schema-manager');
 
 var json = {};

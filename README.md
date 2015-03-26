@@ -1,4 +1,7 @@
-# JSON Schema manager (jsm) [![Build Status](https://travis-ci.org/burningtree/json-schema-manager.svg)](https://travis-ci.org/burningtree/json-schema-manager) [![Dependency Status](https://david-dm.org/burningtree/json-schema-manager.svg)](https://david-dm.org/burningtree/json-schema-manager) [![NPM version](https://badge.fury.io/js/json-schema-manager.svg)](http://badge.fury.io/js/json-schema-manager)
+# JSON Schema manager (jsm) 
+
+[![Build Status](https://travis-ci.org/burningtree/json-schema-manager.svg)](https://travis-ci.org/burningtree/json-schema-manager) [![Dependency Status](https://david-dm.org/burningtree/json-schema-manager.svg)](https://david-dm.org/burningtree/json-schema-manager) 
+<!--[![NPM version](https://badge.fury.io/js/json-schema-manager.svg)](http://badge.fury.io/js/json-schema-manager)-->
 
 Universal library and CLI for [JSON Schema](http://json-schema.org) validation.
 

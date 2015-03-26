@@ -5,6 +5,18 @@
 
 Universal library and CLI for [JSON Schema](http://json-schema.org) validation.
 
+For benchmarks see [json-schema-benchmark](https://github.com/ebdrup/json-schema-benchmark).
+
+## Supported Engines
+- [tv4](https://github.com/geraintluff/tv4)
+- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid)
+- [jsen](https://github.com/bugventure/jsen)
+- [themis](https://github.com/playlyfe/themis)
+- [z-schema](https://github.com/zaggino/z-schema)
+- [jsck](https://github.com/pandastrike/jsck)
+- [jjv](https://github.com/acornejo/jjv)
+- [JSV](https://github.com/garycourt/JSV)
+
 ## Node.js Module
 ### Installation
 ```

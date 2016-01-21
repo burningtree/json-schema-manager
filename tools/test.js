@@ -1,4 +1,4 @@
-var jsm = require('./');
+var jsm = require('../');
 
 var json = {};
 var schema = {

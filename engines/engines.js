@@ -75,4 +75,13 @@ module.exports = {
       cb(null, { valid: !result.errors.length ? true : false, error: result.errors });
     }
   },
+  'ajv': {
+    setup: function(engine, schema) {
+      return engine({ missingRefs: 'fail' });
+    },
+    validate: function(data, schema, options, cb) {
+      var result = this.instance.validate(schema, data);
+      cb(null, { valid: result, error: this.instance.errors });
+    }
+  }
 };

@@ -16,6 +16,7 @@ For benchmarks see [json-schema-benchmark](https://github.com/ebdrup/json-schema
 - [jsck](https://github.com/pandastrike/jsck)
 - [jjv](https://github.com/acornejo/jjv)
 - [JSV](https://github.com/garycourt/JSV)
+- [ajv](https://github.com/epoberezkin/ajv)
 
 ## Node.js Module
 ### Installation
